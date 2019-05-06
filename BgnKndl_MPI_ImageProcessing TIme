@@ -1,0 +1,22 @@
+bigyankandel@bgnkndl:~/BigyanKandel_1917852_HPC/BgnKndl@MPI/Image Processing$ mpicc -o BgnKndl_MPI_ImageProcessing BgnKndl_MPI_ImageProcessing.c -lglut -lGL -lm
+bigyankandel@bgnkndl:~/BigyanKandel_1917852_HPC/BgnKndl@MPI/Image Processing$ mpirun -n 5 -quiet ./BgnKndl_MPI_ImageProcessing
+Time elapsed was 738088ns or 0.000738088s
+bigyankandel@bgnkndl:~/BigyanKandel_1917852_HPC/BgnKndl@MPI/Image Processing$ mpirun -n 5 -quiet ./BgnKndl_MPI_ImageProcessing
+Time elapsed was 990395ns or 0.000990395s
+bigyankandel@bgnkndl:~/BigyanKandel_1917852_HPC/BgnKndl@MPI/Image Processing$ mpirun -n 5 -quiet ./BgnKndl_MPI_ImageProcessing
+Time elapsed was 478884ns or 0.000478884s
+bigyankandel@bgnkndl:~/BigyanKandel_1917852_HPC/BgnKndl@MPI/Image Processing$ mpirun -n 5 -quiet ./BgnKndl_MPI_ImageProcessing
+Time elapsed was 503886ns or 0.000503886s
+bigyankandel@bgnkndl:~/BigyanKandel_1917852_HPC/BgnKndl@MPI/Image Processing$ mpirun -n 5 -quiet ./BgnKndl_MPI_ImageProcessing
+Time elapsed was 378577ns or 0.000378577s
+bigyankandel@bgnkndl:~/BigyanKandel_1917852_HPC/BgnKndl@MPI/Image Processing$ mpirun -n 5 -quiet ./BgnKndl_MPI_ImageProcessing
+Time elapsed was 601883ns or 0.000601883s
+bigyankandel@bgnkndl:~/BigyanKandel_1917852_HPC/BgnKndl@MPI/Image Processing$ mpirun -n 5 -quiet ./BgnKndl_MPI_ImageProcessing
+Time elapsed was 517558ns or 0.000517558s
+bigyankandel@bgnkndl:~/BigyanKandel_1917852_HPC/BgnKndl@MPI/Image Processing$ mpirun -n 5 -quiet ./BgnKndl_MPI_ImageProcessing
+Time elapsed was 586614ns or 0.000586614s
+bigyankandel@bgnkndl:~/BigyanKandel_1917852_HPC/BgnKndl@MPI/Image Processing$ mpirun -n 5 -quiet ./BgnKndl_MPI_ImageProcessing
+Time elapsed was 436039ns or 0.000436039s
+bigyankandel@bgnkndl:~/BigyanKandel_1917852_HPC/BgnKndl@MPI/Image Processing$ mpirun -n 5 -quiet ./BgnKndl_MPI_ImageProcessing
+Time elapsed was 460674ns or 0.000460674s
+
