@@ -9,11 +9,12 @@
   Compile with:
     cc -o EncryptSHA512 EncryptSHA512.c -lcrypt
     
-  To encrypt the password:
-   ./EncryptSHA512 BI1996
-   ./EncryptSHA512 GY2053
-   ./EncryptSHA512 AN9867    
-   ./EncryptSHA512 BK9658
+  To encrypt the password "BGN45":
+    ./EncryptSHA512 BGN45
+
+   =============================================================
+        Name: BIGYAN KANDEL  University ID: "1917852"
+   =============================================================
 ******************************************************************************/
 #define SALT "$6$KB$"
 
