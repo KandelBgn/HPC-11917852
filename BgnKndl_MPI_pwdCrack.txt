@@ -1,0 +1,7 @@
+Instance 1:#341997  BI1996 $6$KB$bZCkQcKiy6TQtxgQQnpdhRf8lz9Ib8MuGMTKaKpIH3ldT2pja9yqFnc1vX4GAfTLpeE26WQrD.oJn1dwwxnL6/
+3380000 solutions explored
+3380000 solutions explored
+Instance 1:#1802054 GY2053 $6$KB$Cqph0ugoW8ND3YeYdokR3IOpFbdp10c/E7bHfjujv7R/QhAut7WTerANkmmCWtt7fIjm1ywsoZQ6Dl3RYVdRG.
+3380000 solutions explored
+3380000 solutions explored
+Instance 1:#139868  AN9867 $6$KB$web5m040YqGT1MDV5HsUAGQZGj4kBEXRuKjujQDlVmI5sy/f6niZOlqmkMzPBEC5jwre.USjM4qOdGQrDmj9d.
